@@ -1,2 +1,0 @@
-# wixcheng.github.io
-index
